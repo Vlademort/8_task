@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1_task", "8.1_task\8.1_task.csproj", "{BA1F13D3-C340-41F9-A3F6-FEFA4BFC91FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2_task", "8.2_task\8.2_task.csproj", "{6E01826E-65B6-411C-9BAF-0596CF9E5B3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.3_task", "8.3_task\8.3_task.csproj", "{2D3FDEDE-DFEB-4078-BBD9-5A9657774308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1F13D3-C340-41F9-A3F6-FEFA4BFC91FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1F13D3-C340-41F9-A3F6-FEFA4BFC91FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1F13D3-C340-41F9-A3F6-FEFA4BFC91FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1F13D3-C340-41F9-A3F6-FEFA4BFC91FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E01826E-65B6-411C-9BAF-0596CF9E5B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E01826E-65B6-411C-9BAF-0596CF9E5B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E01826E-65B6-411C-9BAF-0596CF9E5B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E01826E-65B6-411C-9BAF-0596CF9E5B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3FDEDE-DFEB-4078-BBD9-5A9657774308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3FDEDE-DFEB-4078-BBD9-5A9657774308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3FDEDE-DFEB-4078-BBD9-5A9657774308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3FDEDE-DFEB-4078-BBD9-5A9657774308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB5DCBB-4692-4072-962C-5DCCF691A939}
+	EndGlobalSection
+EndGlobal
